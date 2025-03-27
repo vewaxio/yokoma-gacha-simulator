@@ -29,13 +29,13 @@ Welcome to **Gacha Simulator - Yokoma**, a fun and interactive game where you ca
 ## Project Screenshots
 
 ### Main Menu
-![Main Menu](https://github.com/user-attachments/assets/f76e50ca-307a-4c01-b156-f331129d9dcc)
+![Main Menu](https://github.com/user-attachments/assets/e0b643e0-20db-43c3-9de0-f427768c67d7)
 
 ### Gacha Pull
-![Gacha Pull](https://imgur.com/a/LW5gxc8)
+![Gacha Pull](https://github.com/user-attachments/assets/7dc70742-6c20-49eb-8f2c-4493d351fa24)
 
 ### Inventory Management
-![Inventory](https://imgur.com/a/Yto9xbL)
+![Inventory](https://github.com/user-attachments/assets/e6b6d8ad-8b76-47f2-b7d3-3d9179e21339)
 
 ---
 
