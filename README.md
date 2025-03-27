@@ -15,7 +15,7 @@ Welcome to **Gacha Simulator - Yokoma**, a fun and interactive game where you ca
 
 ---
 
-## ✨ Project Demo
+## 🎮 Project Demo
 
 ### How to Play:
 1. Start the game by running `Main.py`.
@@ -39,7 +39,7 @@ Welcome to **Gacha Simulator - Yokoma**, a fun and interactive game where you ca
 
 ---
 
-## Features
+## ✨ Features
 
 - **Gacha System**: Pull Yokoma creatures with varying rarities and ratings.
 - **Inventory Management**: View, sort, and manage your Yokoma collection.
