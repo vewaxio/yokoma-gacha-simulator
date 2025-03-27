@@ -8,7 +8,7 @@ Welcome to **Gacha Simulator - Yokoma**, a fun and interactive game where you ca
 
 ---
 
-## ![Shields.io Badges](https://img.shields.io/github/stars/yourusername/Gacha-Simulator?style=social)
+## ![Shields.io Badges](https://img.shields.io/github/stars/vewaxio/yokoma-gacha-simulator?style=social)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/github/license/vewaxio/yokoma-gacha-simulator)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
@@ -29,7 +29,7 @@ Welcome to **Gacha Simulator - Yokoma**, a fun and interactive game where you ca
 ## Project Screenshots
 
 ### Main Menu
-![Main Menu](https://imgur.com/a/aAIRtKf)
+![Main Menu](https://github.com/user-attachments/assets/f76e50ca-307a-4c01-b156-f331129d9dcc)
 
 ### Gacha Pull
 ![Gacha Pull](https://imgur.com/a/LW5gxc8)
