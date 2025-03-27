@@ -15,7 +15,7 @@ Welcome to **Gacha Simulator - Yokoma**, a fun and interactive game where you ca
 
 ---
 
-## Project Demo
+## ✨ Project Demo
 
 ### How to Play:
 1. Start the game by running `Main.py`.
@@ -26,7 +26,7 @@ Welcome to **Gacha Simulator - Yokoma**, a fun and interactive game where you ca
 
 ---
 
-## Project Screenshots
+## 📷 Project Screenshots
 
 ### Main Menu
 ![Main Menu](https://github.com/user-attachments/assets/e0b643e0-20db-43c3-9de0-f427768c67d7)
@@ -50,8 +50,23 @@ Welcome to **Gacha Simulator - Yokoma**, a fun and interactive game where you ca
 
 ---
 
-## Installation Steps
+## 🛠️ Installation Steps
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/vewaxio/yokoma-gacha-simulator.git
+2. Navigate to the project directory:
+   ```bash
+   cd Gacha-Simulator
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the game:
+   ```bash
+   python Main.py
+---
+## 🧰 Technologies Used
+- **Python 3.11**: Core programming language.
+- **Colorama**: For console color formatting.
+- **Pickle**: For saving and loading game data.
+---
